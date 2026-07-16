@@ -111,10 +111,4 @@ Open **index.html** in your browser.
 
 - GitHub: https://github.com/wasifqadeer1
 
----
 
-## ⭐ Support
-
-If you enjoyed this project, consider giving it a **⭐ Star** on GitHub.
-
-Happy Coding! 🚀
